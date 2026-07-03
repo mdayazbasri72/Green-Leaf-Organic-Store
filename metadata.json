@@ -1,0 +1,6 @@
+{
+  "name": "Green Leaf Organic Store",
+  "description": "Fresh, Healthy, Naturally Better - Organic Grocery Store in Bengaluru",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
